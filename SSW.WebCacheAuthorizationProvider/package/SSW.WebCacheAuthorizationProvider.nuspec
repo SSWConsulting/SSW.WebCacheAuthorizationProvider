@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SSW.WebCacheAuthorizationProvider</id>
+    <version>1.0.0</version>
+    <title>SSW.WebCacheAuthorizationProvider</title>
+    <authors>Mark Liu, Eric Phan, Daniel Hyles, Brendan Richards</authors>
+    <owners>Mark Liu</owners>
+    <projectUrl>https://github.com/SSWConsulting/WebCacheAuthorizationProvider/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SSW WebCacheAuthorizationProvider</description>
+    <copyright />
+    <language>en-AU</language>
+    <tags>MVC Authorization</tags>
+  </metadata>
+</package>
