@@ -1,6 +1,6 @@
 ﻿# get api key
 $p = Split-Path $MyInvocation.MyCommand.Path
-$apiKey = [IO.File]::ReadAllText("$p\Nuget_Api.key")
+$apiKey = [IO.File]::ReadAllText("$p\SSW.Nuget.Api.key")
 
 # pack and publish to nuget
 .\Assets\nuget.exe pack .\package\SSW.WebCacheAuthorizationProvider.nuspec
